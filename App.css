@@ -1,0 +1,24 @@
+.game-container{
+  text-align: center;
+  margin-top: 50px;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+  transition: transform 0.2s;
+}
+
+button:hover{
+    transform: rotate(-32deg);
+}
+
+.choice-buttos{
+  margin-top: 20px;
+}
+
+.choice-image{
+  width: 100px;
+  height: 100px;
+  margin: 0 10px;
+}
